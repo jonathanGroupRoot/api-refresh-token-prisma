@@ -51,9 +51,12 @@ Authentication: JWT
 # access-control-user
 
 ## ☑️ Funcionalidades
-
+<br/>
 [] Cadastro de Users
+<br/>
 [] Autenticação de Users
+<br/>
 [] RefreshToken
+<br/>
 
 <h3 align="center">👨‍💻 Desenvolvido por Jonathan Vinicius Braz Silva 👨‍💻</h3>
