@@ -52,11 +52,11 @@ Authentication: JWT
 
 ## ☑️ Funcionalidades
 <br/>
-[] Cadastro de Users
+[ ] Cadastro de Users
 <br/>
-[] Autenticação de Users
+[ ] Autenticação de Users
 <br/>
-[] RefreshToken
+[ ] RefreshToken
 <br/>
 
 <h3 align="center">👨‍💻 Desenvolvido por Jonathan Vinicius Braz Silva 👨‍💻</h3>
